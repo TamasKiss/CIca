@@ -1,8 +1,6 @@
-SuperSimpleCI
+CIca
 =============
-**Author:** Malini Das
-
-**Project:** SuperSimpleCI
+**Author:** Kiss Tamás, based on the work of Malini Das
 
 **Requirements:** Posix, Python2.7+, Git
 
